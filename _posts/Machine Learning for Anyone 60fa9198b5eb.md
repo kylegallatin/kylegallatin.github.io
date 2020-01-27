@@ -10,7 +10,7 @@ I may be prone to oversimplification — and I’ll ask all my math, data scienc
 
 Quintessential, classic A.I. is anything that mimics human intelligence. This could be anything from video game bots to Sophia to sophisticated platforms like [<span class="underline">Deepmind’s Alphago</span>](https://deepmind.com/research/alphago/).
 
-![](/images/name/media/image4.jpg)[<span class="underline">Source</span>](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/05/AAEAAQAAAAAAAAhPAAAAJDlkMWMwNTA1LTZkZjUtNDA5MS1hYT.jpg) (ignore deep learning — in this context it’s the same)
+![(https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/05/AAEAAQAAAAAAAAhPAAAAJDlkMWMwNTA1LTZkZjUtNDA5MS1hYT.jpg) (ignore deep learning — in this context it’s the same)](/images/name/media/image4.jpg)[<span class="underline">Source</span>]
 
 Machine learning is a subset of A.I. — and more interesting, I’d argue — that allows machines to “learn” from real-world data instead of acting on a set of predefined rules.
 
@@ -26,13 +26,13 @@ No worries if you’re unfamiliar with math functions because you don’t rememb
 
 Really simplified A.I. is a function expressed as y=mx+b. We know x and y; we just need to find m and b to understand what the relationship between x and y is. For example, in the table below, x is the input, and y is the output.
 
-![](/images/name/image3.png)
+![](/images/name/media/image3.png)
 
 For this pattern, what we have to do to x to get to y is multiply x by 1 (giving us the m value) and add 1 (giving us the b value). And so, the function is y=1x+1.
 
 In essence, this is all machine learning is. Using input x, we made a prediction of what y would probably be for all examples. The fancy part is how you teach a machine to learn what function best describes the data — but when you’re done, what you’re left with is generally some form of y=mx+b. Once we have that function, we can also plot it on a graph:
 
-#### <span class="underline">Math</span>![](/images/name/image2.jpg)
+#### <span class="underline">Math</span>![](/images/name/media/image2.jpg)
 
 For more explanation of functions, [<span class="underline">Math Is Fun</span>](https://www.mathsisfun.com/sets/function.html) has an intuitive and straightforward site (even if the name is a potential red flag and the site looks like their web designer quit sometime in the early 2000s).
 
@@ -44,7 +44,7 @@ Since figuring out the function is based on data, there must be enough of it tha
 
 Another benefit to machines doing this work is that data in the real world isn’t always perfect. In the example below, a machine has determined several functions that fit most of the data, but sometimes, the lines don’t pass through every point. Real-world data is unpredictable and can rarely be described perfectly. This imperfection and complexity can trip up or even stump humans at times, but finding a “best fit” for the data is much faster with machine learning.
 
-#### <span class="underline">This is a basic example of a machine learning a function that best represents the data</span>![](/images/name/image1.gif)
+#### <span class="underline">This is a basic example of a machine learning a function that best represents the data</span>![](/images/name/media/image1.gif)
 
 One more thing humans can’t generally do that machines can is factor in a bunch of variables. Finding a function can be easy with just one input (x) and one output (y), but what if there isn’t just one input variable? There might be x<sub>1</sub> and x<sub>2</sub> or a hundred things that all work together to lead to y. Very quickly, functions can become complex. A.I. is more capable of analyzing the relationship among all those variables.
 
