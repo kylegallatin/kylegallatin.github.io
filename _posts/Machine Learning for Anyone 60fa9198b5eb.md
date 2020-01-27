@@ -64,7 +64,7 @@ Let’s look at a real-world example. I work in pharmaceuticals, so let’s say 
 
   - > _b_ stays the same as the unknown constant.
 
-The function, then, looks like _y_=(_m_<sub>1</sub>_x_<sub>1</sub>)+(_m_<sub>2</sub>__<sub>2</sub>)+_b_. Or, by substituting words: the diagnosis equals (one something times the radius) plus (another something times the perimeter) plus a constant. It’s not that different from a basic function, but the complexity of managing multiple variables is getting out of the realm of human capability. So instead of looking at the data and trying to find out what the “somethings” are that affect the input factors to give an accurate estimate of diagnosis, we have A.I. do it for us. That’s machine learning.
+The function, then, looks like _y_=(_m_<sub>1</sub>_x_<sub>1</sub>)+(_m_<sub>2</sub>_x_<sub>2</sub>)+_b_. Or, by substituting words: the diagnosis equals (one something times the radius) plus (another something times the perimeter) plus a constant. It’s not that different from a basic function, but the complexity of managing multiple variables is getting out of the realm of human capability. So instead of looking at the data and trying to find out what the “_somethings_” are that affect the input factors to give an accurate estimate of diagnosis, we have A.I. do it for us. That’s machine learning.
 
 Of course, even the most detailed, multi-factored data isn’t perfect, and therefore our machine learning model won’t be either. But we don’t need it to be right 100 percent of the time (just like humans); we simply need it to come up with the best possible function it can that’s right most of the time.
 
