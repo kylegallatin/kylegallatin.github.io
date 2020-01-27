@@ -10,7 +10,7 @@ I may be prone to oversimplification — and I’ll ask all my math, data scienc
 
 Quintessential, classic A.I. is anything that mimics human intelligence. This could be anything from video game bots to Sophia to sophisticated platforms like [<span class="underline">Deepmind’s Alphago</span>](https://deepmind.com/research/alphago/).
 
-#### ![](/images/name/image4.jpg)[<span class="underline">Source</span>](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/05/AAEAAQAAAAAAAAhPAAAAJDlkMWMwNTA1LTZkZjUtNDA5MS1hYT.jpg) (ignore deep learning — in this context it’s the same)
+![](/images/name/image4.jpg)[<span class="underline">Source</span>](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/05/AAEAAQAAAAAAAAhPAAAAJDlkMWMwNTA1LTZkZjUtNDA5MS1hYT.jpg) (ignore deep learning — in this context it’s the same)
 
 Machine learning is a subset of A.I. — and more interesting, I’d argue — that allows machines to “learn” from real-world data instead of acting on a set of predefined rules.
 
