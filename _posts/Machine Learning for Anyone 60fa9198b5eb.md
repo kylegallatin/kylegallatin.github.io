@@ -26,13 +26,13 @@ In reality, that’s not true at all. In its current state, A.I. is just math. S
 
 No worries if you’re unfamiliar with math functions because you don’t remember them or don’t use them. For grasping this, we only need the easy stuff: There is input (_x_), and there is output (_y_), and the function is what happens between the input and output — it’s the relationship between the two.
 
-Really simplified A.I. is a function expressed as _y=mx+b_. We know x and y; we just need to find _m_ and _b_ to understand what the relationship between _x_and _y_ is. For example, in the table below, _x_ is the input, and _y_ is the output.
+Really simplified A.I. is a function expressed as _y=mx+b_. We know _x_ and _y_; we just need to find _m_ and _b_ to understand what the relationship between _x_ and _y_ is. For example, in the table below, _x_ is the input, and _y_ is the output.
 
 ![](/images/name/media/image3.png)
 
-For this pattern, what we have to do to _x_ to get to _y_ is multiply _x_ by 1 (giving us the m value) and add 1 (giving us the b value). And so, the function is _y=1x+1_.
+For this pattern, what we have to do to _x_ to get to _y_ is multiply _x_ by 1 (giving us the _m_ value) and add 1 (giving us the _b_ value). And so, the function is _y=1x+1_.
 
-In essence, this is all machine learning is. Using input x, we made a prediction of what _y_ would probably be for all examples. The fancy part is how you teach a machine to learn what function best describes the data — but when you’re done, what you’re left with is generally some form of _y=mx+b_. Once we have that function, we can also plot it on a graph:
+In essence, this is all machine learning is. Using input _x_, we made a prediction of what _y_ would probably be for all examples. The fancy part is how you teach a machine to learn what function best describes the data — but when you’re done, what you’re left with is generally some form of _y=mx+b_. Once we have that function, we can also plot it on a graph:
 
 ![Math](/images/name/media/image2.jpg)
 
