@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Kyle Gallatin is a machine learning engineer at Pfizer, and he does not represent his employer.
 
